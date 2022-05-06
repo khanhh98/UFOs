@@ -12,7 +12,7 @@
 ### Summary
   - Drawback: Since the data table does not follow the alphabet order it might hard for someone to glance at the table at first
   - Recommendations: 
-        - We might put a summary table showing the city names, states, countries so people will know which information they want to search.
-        - We might also put a search button at the end of the filter search which will make the website more visually appealing. 
+    - We might put a summary table showing the city names, states, countries so people will know which information they want to search.
+    - We might also put a search button at the end of the filter search which will make the website more visually appealing. 
   
   
